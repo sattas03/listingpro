@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="plugins">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/include/plugins/redux-framework.zip!/" />
+      <root url="jar://$PROJECT_DIR$/include/plugins/listingpro-ads.zip!/" />
+      <root url="jar://$PROJECT_DIR$/include/plugins/listingpro-plugin.zip!/" />
+      <root url="jar://$PROJECT_DIR$/include/plugins/listingpro-reviews.zip!/" />
+      <root url="jar://$PROJECT_DIR$/include/plugins/js_composer.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
